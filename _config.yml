@@ -13,13 +13,11 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "http://lorentzon.co" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
-#twitter_username: SBootstrap
 github_username: sahuk
-#facebook_username: StartBootstrap
 
 # Address information
 #address_street: 3034 Melrose Place
-#address_city: Beverly Hills
+address_city: Linköping
 #address_state: CA
 #address_zip: 90201
 #
