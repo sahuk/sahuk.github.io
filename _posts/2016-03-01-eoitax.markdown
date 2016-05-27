@@ -11,6 +11,7 @@ Using Django and web scraping from several sources, I created a [database over t
 	and see which countries are striking down the hardest on money laundering and tax evasion.
 
 The following key technologies were used:
+
 * Python
 * Django
 * Beautiful Soup
