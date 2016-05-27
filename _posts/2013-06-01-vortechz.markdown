@@ -9,6 +9,7 @@ category: Backend
 I have been working at [Vortechz AB][vortechz-link] starting 2013, at various capacities.
 Most of my projects have involved PHP and Python, for frontend and backend work.
 Technologies involved:
+
 * `debian`
 * `git`
 * `svn`
