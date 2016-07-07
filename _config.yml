@@ -10,12 +10,14 @@ title: Johan Lorentzon
 email: johanlorentzon@zoho.com
 description: > # this means to ignore newlines until "baseurl:"
   Web Developer
+about: >
+  [Start Bootstrap](http://startbootstrap.com) is an open source library
+  of Bootstrap themes and templates.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://lorentzon.co" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
 github_username: sahuk
-#twitter_username: SBootstrap
-#github_username:  BlackrockDigital
 #facebook_username: StartBootstrap
 #instagram_username: beyonce
 stackoverflow_url: https://stackoverflow.com/users/6204204/sahuk
