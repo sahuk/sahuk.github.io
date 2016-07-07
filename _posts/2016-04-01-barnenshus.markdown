@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Submarine"
+title:  "Barnens Hus preschool board member"
 date:   2016-04-01 00:00:00
 img: img/portfolio/submarine.png
 modalID: modalBarnensHus
