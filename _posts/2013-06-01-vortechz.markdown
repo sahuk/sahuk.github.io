@@ -2,7 +2,7 @@
 layout: post
 title:  "Backend developer at Vortechz AB"
 date:   2013-06-01 00:00:00
-img: img/portfolio/submarine.png
+img: img/portfolio/vortechz.jpg
 modalID: modalVortechz
 category: Backend
 ---
